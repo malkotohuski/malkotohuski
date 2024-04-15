@@ -27,6 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malkotohuski&show_icons=true&locale=en" alt="malkotohuski" /></p>
 
-<img src="https://raw.githubusercontent.com/malkotohuski/malkotohuski/output/snake.svg" alt="Snake animation" />
 
-###
