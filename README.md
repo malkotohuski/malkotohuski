@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malkotohuski&label=Profile%20views&color=0e75b6&style=flat" alt="malkotohuski" /> </p>
 
-<p align="left"> <a href="https://github.com/malkotohuski/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malkotohuski" alt="malkotohuski" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malkotohuski" alt="malkotohuski" /></a> </p>
 
 - 🔭 I’m currently working on **In-the-car-with-me**
 
