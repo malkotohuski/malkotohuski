@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **In-the-car-with-me**
 
-- 👨‍💻 All of my projects are available at [... in progress](... in progress)
+- 👨‍💻 All of my projects are available at (... in progress)
 
 - 📫 How to reach me **devmasterstech@gmail.com**
 
