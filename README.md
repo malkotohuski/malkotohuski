@@ -75,5 +75,3 @@
 
 <br clear="both">
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/malkotohuski/malkotohuski/blob/output/github-contribution-grid-snake.svg)
