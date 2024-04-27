@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Daniel and I'm a passionate frontend developer from Bulgaria</h2>
+<h2 align="center">Hi 👋! My name is Daniel and I'm a passionate fullstack developer from Bulgaria</h2>
+<h3 align="center">I do everything with a lot of dedication and love💓 </h3>
 
 ###
 
