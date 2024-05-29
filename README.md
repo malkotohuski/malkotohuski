@@ -54,7 +54,7 @@
 <div align="center">
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
   <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="450" width="450" alt="Гифка" />
-  <img align="right" src="https://user-images.githubusercontent.com/your-image-url-right.gif" height="450" width="450" alt="Гифка отдясно" />
+  <img [align="right" src="https://user-images.githubusercontent.com/your-image-url-right.gif" height="450" width="450" alt="Гифка отдясно"](https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%") />
 </div>
 
 ###
