@@ -1,5 +1,5 @@
 <h2 align="center">Yo 👋! My name is Daniel and I'm a passionate fullstack developer from Bulgaria</h2>
-<h3 align="center">I work quickly, cheaply and qualitatively, but you can only choose two :)</h3>
+<h3 align="center">I work quickly⏳, cheaply💰 and qualitatively📈, but you can only choose two 😋 </h3>
 <h3 align="center">I do everything with a lot of dedication and love💓</h3>
 
 ###
