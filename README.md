@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! 👋 I'm Daniel, a passionate Fullstack Developer from Bulgaria</h2>
 
-<h3 align="center">I believe in delivering high-quality solutions quickly and affordably. Choose two out of three: Speed ⏳, Cost 💰, Quality 📈.</h3>
+<h3 align="center">I work quickly⏳, qualitatively📈 and cheaply💰, but you can choose only two.</h3>
 
 <h3 align="center">I approach every project with dedication and a lot of love 💓</h3>
 
