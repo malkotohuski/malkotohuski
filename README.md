@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 👋 I'm Daniel, a passionate Fullstack Developer from Bulgaria</h2>
+<h2 align="center">Hello there! 👋 I'm Daniel, a passionate Front-End Developer from Bulgaria</h2>
 
 <h3 align="center">I work quickly⏳ , qualitatively📈 and cheaply💰 , but you can choose only two.🐺</h3>
 
