@@ -1,0 +1,35 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # веднъж на ден
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install puppeteer
+
+      - name: Generate GitHub Stats Images
+        run: |
+          node scripts/generate-stats.js
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.png github-top-langs.png
+          git diff --cached --quiet || git commit -m "Update GitHub Stats images"
+          git push
