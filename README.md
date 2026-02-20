@@ -7,10 +7,10 @@
 ---
 
 <p align="center">
-  <!-- GitHub Stats ще се генерират автоматично от workflow -->
-  <img src="https://github-readme-stats.vercel.app/api?username=malkotohuski&show_icons=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
+  <!-- Локални stats -->
+  <img src="./github-stats.png" width="400" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkotohuski&layout=compact&theme=dracula&hide_border=true" width="400" alt="Top Languages" />
+  <img src="./github-top-langs.png" width="400" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula&hide_border=true" width="400" alt="Streak" />
 </p>
@@ -47,7 +47,6 @@
 ---
 
 <p align="center">
-  <!-- Connect -->
   <a href="https://www.youtube.com/channel/UCfwAV2IrgFXdh_Gqt-piq2A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.twitch.tv/shushkata"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="mailto:malkotohuski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
