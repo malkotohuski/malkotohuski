@@ -8,9 +8,9 @@
 
 <p align="center">
   <!-- Локални stats -->
-  <img src="./github-stats.png" width="400" alt="GitHub Stats" />
+ <!--  <img src="./github-stats.png" width="400" alt="GitHub Stats" />
   <br>
-  <img src="./github-top-langs.png" width="400" alt="Top Languages" />
+  <img src="./github-top-langs.png" width="400" alt="Top Languages" /> -->
   <br>
   <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula&hide_border=true" width="400" alt="Streak" />
 </p>
