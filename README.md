@@ -4,19 +4,18 @@
 
 <h3 align="center">I approach every project with dedication and a lot of love 💓</h3>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malkotohuski&show_icons=true&count_private=true&theme=dracula" height="150" alt="Statistics" />
-  <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula" height="150" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkotohuski&layout=compact&card_width=250&theme=dracula" height="150" alt="Languages" />
+  <!-- Stats и Languages с работещ URL -->
+  <img src="https://github-readme-stats.vercel.app/api?username=malkotohuski&show_icons=true&theme=dracula&hide_title=true&hide_border=true" height="150" alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkotohuski&layout=compact&theme=dracula&hide_title=true&hide_border=true" height="150" alt="Languages" />
 </div>
 
-###
+---
 
 <h3 align="center">🛠️ Technologies and Tools:</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -54,9 +53,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="Yarn logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-plain.svg" height="30" alt="Prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQL logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="30" alt="Render logo" />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCfwAV2IrgFXdh_Gqt-piq2A">
@@ -73,12 +80,12 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="450" width="450" alt="Гифка" />
 </div>
 
-###
+---
 
 <p align="center">Feel free to connect with me or explore my projects! 🌟</p>
