@@ -7,12 +7,11 @@
 ---
 
 <p align="center">
-  <!-- GitHub Stats -->
- <img src="https://github-readme-stats.vercel.app/api?username=malkotohuski&show_icons=true&theme=dracula&hide_border=true&count_private=true&token=GH_TOKEN" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malkotohuski&show_icons=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkotohuski&layout=compact&theme=dracula&hide_border=true&count_private=true&token=GH_TOKEN" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkotohuski&layout=compact&theme=dracula&hide_border=true" width="400" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula&hide_border=true" alt="Streak" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula&hide_border=true" width="400" alt="Streak" />
 </p>
 
 ---
