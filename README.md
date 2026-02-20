@@ -1,16 +1,16 @@
 <p align="center">
   <strong>Hello there! 👋 I'm Daniel, a passionate Front-End Developer from Bulgaria</strong><br>
-  I work quickly⏳, qualitatively📈 and cheaply💰, but you can choose only two.🐺<br>
-  I approach every project with dedication and a lot of love 💓
+  I work quickly⏳, qualitatively📈 and cheaply💰, но можеш да избереш само две.🐺<br>
+  Подхождам с любов и отдаденост към всеки проект 💓
 </p>
 
 ---
 
 <p align="center">
-  <!-- Локални stats -->
- <!--  <img src="./github-stats.png" width="400" alt="GitHub Stats" />
+  <!-- Локални stats, генерирани от workflow -->
+  <img src="./github-stats.png" width="400" alt="GitHub Stats" />
   <br>
-  <img src="./github-top-langs.png" width="400" alt="Top Languages" /> -->
+  <img src="./github-top-langs.png" width="400" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com?user=malkotohuski&theme=dracula&hide_border=true" width="400" alt="Streak" />
 </p>
@@ -47,6 +47,7 @@
 ---
 
 <p align="center">
+  <!-- Connect -->
   <a href="https://www.youtube.com/channel/UCfwAV2IrgFXdh_Gqt-piq2A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.twitch.tv/shushkata"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="mailto:malkotohuski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
