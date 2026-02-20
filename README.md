@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Локални stats -->
-  <img src="./github-stats.png" width="400" alt="GitHub Stats" />
+ <img src="./github-stats.png" width="400" alt="GitHub Stats" />
   <br>
   <img src="./github-top-langs.png" width="400" alt="Top Languages" />
   <br>
