@@ -1,7 +1,7 @@
 <p align="center">
   <strong>Hello there! 👋 I'm Daniel, a passionate Full-stack Developer from Bulgaria</strong><br>
-  I work quickly⏳, qualitatively📈 and cheaply💰, но можеш да избереш само две.🐺<br>
-  Подхождам с любов и отдаденост към всеки проект 💓
+I work quickly⏳, qualitatively📈 and cheaply💰, but you can only choose two.🐺
+I approach every project with love and dedication 💓
 </p>
 
 ---
