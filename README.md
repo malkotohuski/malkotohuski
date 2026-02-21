@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hello there! 👋 I'm Daniel, a passionate Front-End Developer from Bulgaria</strong><br>
+  <strong>Hello there! 👋 I'm Daniel, a passionate Full-stack Developer from Bulgaria</strong><br>
   I work quickly⏳, qualitatively📈 and cheaply💰, но можеш да избереш само две.🐺<br>
   Подхождам с любов и отдаденост към всеки проект 💓
 </p>
